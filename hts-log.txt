@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Jul 2023 09:07:02 at https://www.spareroom.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.spareroom.co.uk/ -O1 "C:\Users\SmartDev10\Downloads\spare" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:07:39	Warning: 	File not parsed, looks like binary: https://www.spareroom.co.uk/fonts/fontawesome/fa-regular-400.woff2
+09:12:47	Error: 	"Not Found" (404) at link https://www.spareroom.co.uk/v2/img/spareroom/landingpages/heroes/home_hero/320w.jpeg?v=1 (from https://www.spareroom.co.uk/)
+09:13:04	Warning: 	Moved Permanently for https://www.spareroom.co.uk/content/info-advice/flatsharing-faq/
+09:13:04	Warning: 	File has moved from https://www.spareroom.co.uk/content/info-advice/flatsharing-faq/ to http://www.spareroom.co.uk/content/info-flatsharing/flatsharing-faq
+09:20:53	Warning: 	Moved Permanently for www.spareroom.co.uk/robots.txt
+09:20:53	Warning: 	Redirected link is identical because of 'URL Hack' option: www.spareroom.co.uk/robots.txt and https://www.spareroom.co.uk/robots.txt
+09:20:53	Warning: 	Warning moved treated for www.spareroom.co.uk/robots.txt (real one is https://www.spareroom.co.uk/robots.txt)
+09:20:53	Warning: 	Moved Permanently for www.spareroom.co.uk/apps/
+09:20:53	Warning: 	Redirected link is identical because of 'URL Hack' option: www.spareroom.co.uk/apps/ and https://www.spareroom.co.uk/apps/
+09:20:53	Warning: 	File has moved from www.spareroom.co.uk/apps/ to https://www.spareroom.co.uk/apps/
+09:20:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.spareroom.co.uk/)
+09:20:56	Warning: 	File not parsed, looks like binary: https://www.spareroom.co.uk/fonts/spareroom_sans/SpareRoomSans-Medium.woff2
+09:20:56	Warning: 	File not parsed, looks like binary: https://www.spareroom.co.uk/fonts/fontawesome/fa-solid-900.woff2
+09:20:56	Warning: 	File not parsed, looks like binary: https://www.spareroom.co.uk/fonts/fontawesome/fa-brands-400.woff2
+10:19:52	Warning: 	link is probably looping, type unknown, aborting: https://www.spareroom.co.uk/flatshare/search.pl?returnto=%2Fflatshare%2Fgloucestershire%2Fgloucester_quays_&search=Gloucester%20Quays%20%2C%20Gloucestershire&flatshare_type=offered&action=search
+12:36:19	Warning: 	Moved Permanently for https://www.spareroom.co.uk/content/infowebsitehelp/faq/
+12:36:19	Warning: 	File has moved from https://www.spareroom.co.uk/content/infowebsitehelp/faq/ to http://www.spareroom.co.uk/content/info-faq/faq
+12:55:53	Warning: 	Link https://www.spareroom.co.uk/media/rental-index not scanned (follow robots meta tag)
+13:40:27	Warning: 	Moved Permanently for https://www.spareroom.co.uk/content/secure/listing-options/
+13:40:27	Warning: 	File has moved from https://www.spareroom.co.uk/content/secure/listing-options/ to http://www.spareroom.co.uk/content/placeditadvert/listing-options/
+14:18:56	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/3ciiCkpPFoY/mqdefault.jpg (from https://www.spareroom.co.uk/flatshare/leeds)
+14:45:47	Error: 	"Not Found" (404) at link https://assets.spareroom.co.uk/img/spareroom/v3/panel_footers/footer_207.gif (from https://assets.spareroom.co.uk/assets/44cf079f7b31ad444664d02dbffa9438.css)
+14:45:47	Error: 	"Not Found" (404) at link https://assets.spareroom.co.uk/img/spareroom/v4/other_items/board_whole_properties.png (from https://assets.spareroom.co.uk/assets/44cf079f7b31ad444664d02dbffa9438.css)
+15:06:04	Error: 	Exit requested by shell or user
+15:06:04	Warning: 	File not added due to mirror cancel: https://www.spareroom.co.uk/flatshare/shortlist.pl?function=add&flatshare_id=4821059&flatshare_type=offered&search_results=%2Fflatshare%2Fwest_midlands%2Fmoseley&city_id=&auto_return=1
+15:06:08	Error: 	Exit requested by shell or user
+15:06:08	Error: 	"" (-1) at link https://www.spareroom.co.uk/flatshare/west_midlands/selly_oak (from https://www.spareroom.co.uk/flatshare/west_midlands/birmingham)
+15:06:08	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 hours 59 minutes 6 seconds : 36243 links scanned, 36223 files written (2485641381 bytes overall) [745698768 bytes received at 34609 bytes/sec], 2414856369 bytes transferred using HTTP compression in 31104 files, ratio 25%, 7.5 requests per connection
+(9 errors, 19 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

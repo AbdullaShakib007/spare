@@ -1,0 +1,2 @@
+!function(){"use strict";var e,t=document.querySelector(".landing-hero__button");e=t.getAttribute("href"),t.addEventListener("click",(function(){!function(e){var t=e.category,n=e.action,a=e.label,o=e.value,i=e.non_interaction,r=void 0!==i&&i;if(window.dataLayer&&window.dataLayer.push){var c={event:"ga.event",ga_event_category:t,ga_event_action:n,ga_event_label:a,ga_event_value:o,ga_event_non_interaction:r};window.dataLayer.push(c)}}({category:"button",action:"post_free_ad_now",label:"".concat(e)})}))}();
+//# sourceMappingURL=tube_ad.6885ea43da5419dc26f6.js.map
